@@ -10,7 +10,7 @@ const Home: React.FC<homeProps> = ({  }) => {
   return (
     <div>
       <Header/>
-      <div>Hello</div>
+      <div>Test....</div>
     </div>
   );
 }
