@@ -1,3 +1,3 @@
 export const color = {
-    background : '#BACEE0',
+    background : '#F1EFE7',
 }

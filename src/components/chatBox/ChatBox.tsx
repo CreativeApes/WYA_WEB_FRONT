@@ -10,7 +10,7 @@ const ChatBox = () =>{
         <ChatBoxLayout>
             <MoreIcon><Plus fill="#fff" style={{width:'30px'}}/></MoreIcon>
             <MsgBox ref={inputRef}></MsgBox>
-            <SendIcon><Send  fill="#222" style={{width:'25px'}}/></SendIcon>
+            <SendIcon><Send  fill="#222" style={{width:'25px', height : '25px'}}/></SendIcon>
         </ChatBoxLayout>
     )
 }
