@@ -9,7 +9,6 @@ const Home: React.FC<homeProps> = ({  }) => {
 
   return (
     <div>
-      <Header/>
       <div>Test....</div>
     </div>
   );

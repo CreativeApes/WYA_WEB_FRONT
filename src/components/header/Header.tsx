@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import { color } from "../../theme";
 import "./Header.style.css";
-import Arrow from "../../asset/arrow.png";
 
 const Header = () =>{
 
